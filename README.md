@@ -1,2 +1,0 @@
-# PruebaGit
-Es una prueba
